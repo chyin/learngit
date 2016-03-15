@@ -7,3 +7,4 @@ There are some questions here.
 Maybe this is a test.
 This a second time test.
 Creating a new branch is quick AND simple.
+Here is a new change.
